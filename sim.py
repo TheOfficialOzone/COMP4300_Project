@@ -5,7 +5,7 @@ import random
 import numpy
 from enum import Enum
 
-# 5 pixels = 1m
+# 5 pixels ~ 1m
 
 # EDITABLE
 PACKET_DELAY = 1 # Minimum is 1 frame
