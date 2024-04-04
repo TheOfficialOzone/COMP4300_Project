@@ -8,7 +8,7 @@
 - python3 sim.py
 
 # Tunable parameters
--    PACKET_DELAY, The amount of simulation ticks it takes for a message to propogate
+-    PACKET_DELAY, The amount of simulation ticks it takes for a message to propagate
 -    PACKET_LOSS_CHANCE, The odds of a packet being dropped during transmission
 -    CAR_AMOUNT, The amount of simulated cars
 -    ROUTER_RANGE, The range of the connection between cars
